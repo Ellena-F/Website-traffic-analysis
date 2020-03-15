@@ -1,5 +1,5 @@
 # Website-traffic-analysis
-This dashboard analyses the key information for a website's traffic.
+This dashboard analyses the key information for a website's traffic by using Tableau.
 
 ![screenshot](/web_dashboard.png?raw=true "Optional Title")
 
